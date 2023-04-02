@@ -1,0 +1,129 @@
+Bygning 1:
+  Dimensjoner: 5 x 10
+  Areal: 50
+  Gjenstående areal: 14
+  Brukt areal: 36
+  Rom 1: 
+    Dimensjoner: 3 x 3
+    Areal: 9
+  Rom 7: 
+    Dimensjoner: 3 x 3
+    Areal: 9
+  Rom 8: 
+    Dimensjoner: 2 x 5
+    Areal: 10
+  Rom 10: 
+    Dimensjoner: 2 x 3
+    Areal: 6
+  Rom 11: 
+    Dimensjoner: 1 x 2
+    Areal: 2
+  Oversiktsbilde av bygning 1:
+     1  1  1  8  8 
+     1  1  1  8  8 
+     1  1  1  8  8 
+     7  7  7  8  8 
+     7  7  7  8  8 
+     7  7  7 10 10 
+    11  0  0 10 10 
+    11  0  0 10 10 
+     0  0  0  0  0 
+     0  0  0  0  0 
+
+Bygning 2:
+  Dimensjoner: 7 x 7
+  Areal: 49
+  Gjenstående areal: 4
+  Brukt areal: 45
+  Rom 2: 
+    Dimensjoner: 2 x 5
+    Areal: 10
+  Rom 9: 
+    Dimensjoner: 5 x 7
+    Areal: 35
+  Oversiktsbilde av bygning 2:
+     2  2  9  9  9  9  9 
+     2  2  9  9  9  9  9 
+     2  2  9  9  9  9  9 
+     2  2  9  9  9  9  9 
+     2  2  9  9  9  9  9 
+     0  0  9  9  9  9  9 
+     0  0  9  9  9  9  9 
+
+Bygning 3:
+  Dimensjoner: 10 x 10
+  Areal: 100
+  Gjenstående areal: 49
+  Brukt areal: 51
+  Rom 3: 
+    Dimensjoner: 5 x 7
+    Areal: 35
+  Rom 12: 
+    Dimensjoner: 4 x 4
+    Areal: 16
+  Oversiktsbilde av bygning 3:
+     3  3  3  3  3 12 12 12 12  0 
+     3  3  3  3  3 12 12 12 12  0 
+     3  3  3  3  3 12 12 12 12  0 
+     3  3  3  3  3 12 12 12 12  0 
+     3  3  3  3  3  0  0  0  0  0 
+     3  3  3  3  3  0  0  0  0  0 
+     3  3  3  3  3  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0 
+
+Bygning 4:
+  Dimensjoner: 15 x 10
+  Areal: 150
+  Gjenstående areal: 44
+  Brukt areal: 106
+  Rom 4: 
+    Dimensjoner: 2 x 3
+    Areal: 6
+  Rom 6: 
+    Dimensjoner: 10 x 10
+    Areal: 100
+  Oversiktsbilde av bygning 4:
+     4  4  6  6  6  6  6  6  6  6  6  6  0  0  0 
+     4  4  6  6  6  6  6  6  6  6  6  6  0  0  0 
+     4  4  6  6  6  6  6  6  6  6  6  6  0  0  0 
+     0  0  6  6  6  6  6  6  6  6  6  6  0  0  0 
+     0  0  6  6  6  6  6  6  6  6  6  6  0  0  0 
+     0  0  6  6  6  6  6  6  6  6  6  6  0  0  0 
+     0  0  6  6  6  6  6  6  6  6  6  6  0  0  0 
+     0  0  6  6  6  6  6  6  6  6  6  6  0  0  0 
+     0  0  6  6  6  6  6  6  6  6  6  6  0  0  0 
+     0  0  6  6  6  6  6  6  6  6  6  6  0  0  0 
+
+Bygning 5:
+  Dimensjoner: 20 x 20
+  Areal: 400
+  Gjenstående areal: 398
+  Brukt areal: 2
+  Rom 5: 
+    Dimensjoner: 1 x 2
+    Areal: 2
+  Oversiktsbilde av bygning 5:
+     5  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     5  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+
+Rom som ikke kunne plasseres:
