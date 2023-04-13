@@ -157,6 +157,8 @@ int main() {
         }
     }
 
+    roomObjectsList.clear();
+
     // Output til fil
     ofstream outputFile("output_oblig2.txt");
     for (int i = 0; i < buildingObjectsList.size(); ++i){
@@ -186,7 +188,7 @@ int main() {
     outputFile << "Rom som ikke kunne plasseres:\n";
     for (int i = 0; i < unusedRooms.size(); ++i){
         outputFile << "Rom " << unusedRooms[i].id << "\n"
-                   << "  Dimensjoner " << unusedRooms[i].length << " x " << unusedRooms[i].width << "\n";
+                   << "  Dimensjoner: " << unusedRooms[i].length << " x " << unusedRooms[i].width << "\n";
     }
     outputFile.close();
 }
