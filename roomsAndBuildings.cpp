@@ -174,6 +174,7 @@ int main() {
                        << "    Areal: " << buildingObjectsList[i].rooms[j].area << "\n";
         }
 
+        // Husk at setw er padding på tegning av bygning!
         outputFile << "  Oversiktsbilde av bygning " << i + 1 << ":" <<endl;
         for (int row = 0; row < buildingObjectsList[i].length; ++row) {
             outputFile << "    ";
